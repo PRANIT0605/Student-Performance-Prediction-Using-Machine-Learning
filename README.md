@@ -2,7 +2,7 @@
 
 
 
-Check out the live application here ->   
+The project was temporarily deployede live on AWS Elastic Beanstalk but now has been taken down.
 http://end-to-endproject-env.eba-mpiwrvch.us-east-1.elasticbeanstalk.com/predict_datapoint
 
 
